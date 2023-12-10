@@ -145,7 +145,7 @@ Material _hotel(
 
 // GestureDetector(
                       //   onTap: (){
-                      //     //TODO: add location
+                      //     // add location
                       //   },
                       //   child: Material(
                       //     shape: RoundedRectangleBorder(
